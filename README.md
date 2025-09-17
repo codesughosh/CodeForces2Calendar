@@ -8,8 +8,7 @@ Automatically sync upcoming Codeforces contests to your Google Calendar.
   - Start and end time
   - Reminder (15 min before)
 - Works with **Task Scheduler (Windows)** for automation.
-- 
-## 🛠 Setup Instructions
+## Setup Instructions
 
 ### 1️. Clone this repo
 ```bash
