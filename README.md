@@ -1,6 +1,7 @@
 # Codeforces → Google Calendar
 Automatically sync upcoming Codeforces contests to your Google Calendar.
-(This tool is in Testing mode, DM me to add your gmail for Test users)
+
+###(This tool is in Testing mode, email me at (sjce.sughosh@gmail.com) to add your gmail for Test users)
 ## Features
 - Fetches live contest data from the [Codeforces API](https://codeforces.com/api).
 - Creates Google Calendar events with:
