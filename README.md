@@ -11,9 +11,22 @@ Automatically sync upcoming Codeforces contests to your Google Calendar.
 - 
 ## 🛠 Setup Instructions
 
-### 1️⃣ Clone this repo
+### 1️. Clone this repo
 ```bash
 git clone https://github.com/YOUR_USERNAME/CodeForces2Calendar.git
-cd CodeForces2Calendar```
+cd CodeForces2Calendar
+```
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3. Enable Google Calendar API
+1. Go to Google Cloud Console
 
-### 1️⃣ Clone this repo
+2.Create a new project (e.g., CodeForcesCalendar).
+
+3.Enable the Google Calendar API.
+
+4.Create OAuth 2.0 credentials → download the credentials.json file.
+
+5.Place it inside the project folder.
