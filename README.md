@@ -39,10 +39,12 @@ A token.json will be generated to store your login session.
 2. Choose Daily.
 3. Action → "Start a Program".
 4. Program/script:
+- Enter the path of python.exe
 ```bash
 "C:\Users\<YOUR NAME>\AppData\Local\Programs\Python\Python313\python.exe"
 ```
 5. Arguements:
+- Enter the path of main.py
 ```bash
    "C:\STORAGE\Code\CodeForces2Calendar\main.py"
 ```
