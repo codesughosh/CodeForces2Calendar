@@ -23,7 +23,7 @@ pip install -r requirements.txt
 1. Go to Google Cloud Console
 2. Create a new project (e.g., CodeForcesCalendar).
 3. Enable the Google Calendar API.
-4. Create OAuth 2.0 credentials → download the credentials.json file.
+4. Create OAuth 2.0 credentials → download the credentials.json file. (Rename the file to "credentials.json")
 5. Place it inside the project folder.
 
 ### Run the script
